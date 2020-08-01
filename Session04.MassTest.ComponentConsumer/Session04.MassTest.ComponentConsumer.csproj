@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.RabbitMQ" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Session04.MassTest.Components\Session04.MassTest.Components.csproj" />
+    <ProjectReference Include="..\Session04.MassTest.Contracts\Session04.MassTest.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

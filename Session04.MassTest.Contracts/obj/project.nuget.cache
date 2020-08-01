@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIV94oO7jby3Hw5hlxzxXGBOCmb2NUIGBD3T88aMMvwKIV5ZGO2tKmIKCpBnY/h2cZLs1Z0+86uEQ0N7Hja8eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
