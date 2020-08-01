@@ -21,3 +21,15 @@ C:\Users\Sara\Source\Repos\MicroserviceCorese\Session04\Session04.MassTest\Sessi
 C:\Users\Sara\Source\Repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csproj.CopyComplete
 C:\Users\Sara\Source\Repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.dll
 C:\Users\Sara\Source\Repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.pdb
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.deps.json
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.dll
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.pdb
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csprojAssemblyReference.cache
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.AssemblyInfoInputs.cache
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.AssemblyInfo.cs
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csproj.CopyComplete
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.dll
+C:\Users\Sara\Source\Repos\MassTransit\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.pdb

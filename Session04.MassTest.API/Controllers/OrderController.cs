@@ -19,16 +19,14 @@ namespace Session04.MassTest.API.Controllers
     {
 
         private readonly ILogger<OrderController> _logger;
-        private readonly IRequestClient<OrderRegistered> requestClient;
 
-        public OrderController(ILogger<OrderController> logger, IRequestClient<OrderRegistered> requestClient)
+        public OrderController(ILogger<OrderController> logger)
         {
             _logger = logger;
-            this.requestClient = requestClient;
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get(int id = 2, string customerNumber = "12")
+        public async Task<IActionResult> Get(int id = 1, string customerNumber = "12")
         {
 
             var bus = Bus.Factory.CreateUsingRabbitMq(sbc =>
@@ -43,7 +41,7 @@ namespace Session04.MassTest.API.Controllers
                 OrderId = id,
                 CustomerNumber = customerNumber
             };
-            var res = bus.CreateRequestClient<OrderRegistered>();
+            var requestClient = bus.CreateRequestClient<OrderRegistered>();
             var (accepted, rejected) = await requestClient.GetResponse<OrderAccepted, OrderRejected>(orderRegistered);
             
             if (accepted.IsCompleted)

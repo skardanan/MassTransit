@@ -22,11 +22,6 @@ namespace Session04.MassTest.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMediator(c =>
-            {
-                c.AddConsumer<OrderRegisteredHandler>();
-                c.AddRequestClient<OrderRegistered>();                
-            });
             services.AddControllers();
         }
 

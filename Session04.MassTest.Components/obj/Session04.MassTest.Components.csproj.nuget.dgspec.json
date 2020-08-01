@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {}
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj",
         "projectName": "Session04.MassTest.Components",
-        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj",
+        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Components\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj"
+              "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
         "projectName": "Session04.MassTest.Contracts",
-        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
+        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

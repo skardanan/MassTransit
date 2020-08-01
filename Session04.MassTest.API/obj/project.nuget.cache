@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xNVrNkVbIfSeBFMSaNXjkJQzLlcXUpq9sWXJgLka9m0YuLb2wQ3NUn5tZFKAPqadAboVBwp1jh+pIjterk7vBg==",
+  "dgSpecHash": "xtzEY6HoVg+jFp68SveDgyaBcNehlNqSFid7iaEG3+EMo9qPNWt20yMSe6dLSSk4+1L3PqbN+mziuFOokHzwyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
+  "projectFilePath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sara\\.nuget\\packages\\automatonymous\\5.0.0\\automatonymous.5.0.0.nupkg.sha512",
     "C:\\Users\\Sara\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

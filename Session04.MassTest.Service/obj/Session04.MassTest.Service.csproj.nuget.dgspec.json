@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj": {}
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
         "projectName": "Session04.MassTest.Contracts",
-        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
+        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj": {
+    "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj",
         "projectName": "Session04.MassTest.Service",
-        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj",
+        "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Service\\Session04.MassTest.Service.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Service\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj"
+              "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MassTransit\\Session04.MassTest.Contracts\\Session04.MassTest.Contracts.csproj"
               }
             }
           }
